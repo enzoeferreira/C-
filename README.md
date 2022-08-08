@@ -1,2 +1,2 @@
 # Estudos em C++
-- ### [Udemy](https://www.udemy.com/home/my-courses/learning/)
+- ### [Udemy](https://www.udemy.com/course/curso-algoritmos-logica-de-programacao/)
