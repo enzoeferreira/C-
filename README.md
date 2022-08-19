@@ -25,8 +25,10 @@
 
 ### Declaração de variáveis
 
-    int
-    double
-    char
-    string
-    bool
+```cpp
+int
+double
+char
+string
+bool
+```
